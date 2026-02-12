@@ -77,7 +77,7 @@ aws configure --profile my-profile
 2. Open the Powers panel
 3. Click "Add Custom Power"
 4. Select "GitHub Repository"
-5. Enter: `https://github.com/YOUR-USERNAME/kiro-powers-aws`
+5. Enter: `https://github.com/DavidDelOjo/kiro-powers-aws`
 6. Select the power you want to install:
    - `aws-well-architected`
    - `aws-pricing`
@@ -87,7 +87,7 @@ aws configure --profile my-profile
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/kiro-powers-aws.git
+   git clone https://github.com/DavidDelOjo/kiro-powers-aws.git
    ```
 
 2. Open Kiro IDE
