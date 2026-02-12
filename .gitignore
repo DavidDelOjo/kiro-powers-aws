@@ -52,3 +52,6 @@ htmlcov/
 
 # User-specific configurations
 **/mcp.local.json
+
+# Personal notes and publication guides (not for public repo)
+COMO_PUBLICAR_EN_KIRO.md

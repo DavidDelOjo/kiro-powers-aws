@@ -1,6 +1,15 @@
 # Kiro Powers - AWS Collection
 
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+[![Kiro](https://img.shields.io/badge/Kiro-0.7%2B-purple)](https://kiro.dev)
+[![AWS](https://img.shields.io/badge/AWS-MCP%20Servers-orange)](https://github.com/awslabs/mcp)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-green)](https://www.python.org/)
+
 A collection of Kiro Powers for AWS services, providing specialized tools and workflows for security assessment and cost analysis.
+
+> 🚀 Ready to use with official AWS Labs MCP servers  
+> 📚 Complete documentation and examples included  
+> 🔒 Security-focused with least-privilege IAM guidance
 
 ## Available Powers
 
@@ -151,7 +160,9 @@ Edit `aws-pricing/mcp.json` to configure:
 
 ## Usage Examples
 
-### AWS Well-Architected Security
+### Quick Start Examples
+
+#### AWS Well-Architected Security
 
 ```
 "Monitor the operational status of AWS security services in my account"
@@ -165,7 +176,7 @@ Edit `aws-pricing/mcp.json` to configure:
 "Provide an inventory of all resources in my AWS account"
 ```
 
-### AWS Pricing
+#### AWS Pricing
 
 ```
 "How much does an EC2 t3.medium instance cost in us-east-1?"
@@ -178,6 +189,8 @@ Edit `aws-pricing/mcp.json` to configure:
 
 "Give me cost optimization recommendations for my EC2 infrastructure"
 ```
+
+📚 **See [EXAMPLES.md](EXAMPLES.md) for 20+ detailed examples with expected outputs and use cases**
 
 ## Troubleshooting
 
@@ -210,13 +223,20 @@ Edit `aws-pricing/mcp.json` to configure:
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting a Pull Request.
 
+Quick start:
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/amazing-feature`)
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
+
+## Changelog
+
+See [CHANGELOG.md](CHANGELOG.md) for a list of changes and version history.
 
 ## License
 
