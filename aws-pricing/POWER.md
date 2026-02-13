@@ -409,7 +409,7 @@ Provides cost optimization recommendations.
 
 ## Additional Resources
 
-- **Official AWS Calculator**: [AWS Pricing Calculator](https://calculator.aws/)
+- **Official AWS Calculator**: [AWS Pricing Calculator](https://calculator.aws.amazon.com/)
 - **Pricing Documentation**: [AWS Pricing](https://aws.amazon.com/pricing/)
 - **Cost Explorer**: [AWS Cost Explorer](https://aws.amazon.com/aws-cost-management/aws-cost-explorer/)
 - **Well-Architected Cost Optimization**: [Cost Optimization Pillar](https://docs.aws.amazon.com/wellarchitected/latest/cost-optimization-pillar/welcome.html)
