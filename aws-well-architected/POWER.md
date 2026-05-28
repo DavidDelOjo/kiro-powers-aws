@@ -1,7 +1,7 @@
 ---
 name: "aws-well-architected"
 displayName: "AWS Well-Architected Security"
-description: "Security assessment tool based on AWS Well-Architected Framework to monitor security services, analyze security posture, and verify compliance in AWS environments."
+description: "Monitor and assess AWS security posture using the Well-Architected Framework. Integrates GuardDuty, Security Hub, Inspector, and IAM Access Analyzer for compliance monitoring and security findings analysis."
 keywords: ["aws", "well-architected", "security", "compliance", "guardduty", "security-hub"]
 author: "David Del Ojo"
 ---

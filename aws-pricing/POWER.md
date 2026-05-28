@@ -1,7 +1,7 @@
 ---
 name: "aws-pricing"
 displayName: "AWS Pricing Calculator"
-description: "MCP server for accessing real-time AWS pricing information and providing cost analysis capabilities with the AWS calculator."
+description: "Access real-time AWS pricing information, compare costs across regions, estimate monthly expenses, and get cost optimization recommendations."
 keywords: ["aws", "pricing", "costs", "calculator", "budget", "cost-optimization"]
 author: "David Del Ojo"
 ---
